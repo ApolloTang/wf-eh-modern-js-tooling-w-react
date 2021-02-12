@@ -1,0 +1,17 @@
+{
+  "name": "wf-modern-js-tooling-w-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Apollo Tang",
+  "license": "MIT",
+  "engines": {
+    "node": "12.19.0"
+  },
+  "devDependencies": {
+    "webpack": "4",
+    "webpack-cli": "3"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
